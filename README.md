@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoshikawaTooru　(YOSHIKAWA Tooru).
+- 👋 Hi, I’m @YoshikawaTooru　(吉川徹).
 - 👀 I’m interested in AI, simulation, and macheine control.
 - 🌱 I’m currently learning ... GitHub just now.
 - 💞️ I’m looking to collaborate on ... machine control or creating AI mechanism using a new method.
